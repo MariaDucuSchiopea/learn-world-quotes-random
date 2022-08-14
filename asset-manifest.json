@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/learn-world-quotes-random/static/css/main.065bf42c.css",
-    "main.js": "/github.io/learn-world-quotes-random/static/js/main.38fda807.js",
-    "static/js/787.5f1c264c.chunk.js": "/github.io/learn-world-quotes-random/static/js/787.5f1c264c.chunk.js",
-    "index.html": "/github.io/learn-world-quotes-random/index.html",
-    "main.065bf42c.css.map": "/github.io/learn-world-quotes-random/static/css/main.065bf42c.css.map",
-    "main.38fda807.js.map": "/github.io/learn-world-quotes-random/static/js/main.38fda807.js.map",
-    "787.5f1c264c.chunk.js.map": "/github.io/learn-world-quotes-random/static/js/787.5f1c264c.chunk.js.map"
+    "main.css": "/learn-world-quotes-random/static/css/main.065bf42c.css",
+    "main.js": "/learn-world-quotes-random/static/js/main.15ee37d9.js",
+    "static/js/787.5f1c264c.chunk.js": "/learn-world-quotes-random/static/js/787.5f1c264c.chunk.js",
+    "index.html": "/learn-world-quotes-random/index.html",
+    "main.065bf42c.css.map": "/learn-world-quotes-random/static/css/main.065bf42c.css.map",
+    "main.15ee37d9.js.map": "/learn-world-quotes-random/static/js/main.15ee37d9.js.map",
+    "787.5f1c264c.chunk.js.map": "/learn-world-quotes-random/static/js/787.5f1c264c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.065bf42c.css",
-    "static/js/main.38fda807.js"
+    "static/js/main.15ee37d9.js"
   ]
 }
